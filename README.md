@@ -1,2 +1,4 @@
-# OlaMundo
- Repositorio do curso em vídeo
+# Olá, Mundo!
+ Repositório do curso em vídeo
+
+ Repositório criado durante uma aula ao vivo
