@@ -5,7 +5,7 @@
  
  Esta linha, eu adicionei diretamente no **GitHub**.
  
- Estou aprendendo linguagem **Markdown** no __Curso__ em *Vídeo* de _Git_ e ~GitHub~.
+ Estou aprendendo linguagem **Markdown** no __Curso__ em *Vídeo* de _Git_ e ~~GitHub~~.
  
  # Título - nível 1
  ***
